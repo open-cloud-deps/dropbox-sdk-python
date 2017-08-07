@@ -1,0 +1,5 @@
+python-dropbox (8.0.0) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Zack Williams <zdw@cs.arizona.edu>  Sun, 06 Aug 2017 19:11:23 -0700
